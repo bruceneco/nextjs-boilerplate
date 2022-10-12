@@ -37,6 +37,7 @@
     "@typescript-eslint/explicit-module-boundary-types": "off"
   },
   "ignorePatterns": [
-    "!.jest"
+    "!.jest",
+    "!.storybook"
   ]
 }
